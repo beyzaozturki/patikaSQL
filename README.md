@@ -18,7 +18,7 @@
 <br/><br/>
 
 > ## ***<p id = 'Exercises 1' > Exercises 1 </p>***
-#### Sort the data in the title and description columns in the film table.
+ _Sort the data in the title and description columns in the film table._
 ~~~sql
 SELECT title,description FROM film;
 ~~~
