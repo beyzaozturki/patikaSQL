@@ -14,21 +14,11 @@
 ⚡ ***<a href='#Exercises 11'>Exercises 11</a><br>***
 ⚡ ***<a href='#Exercises 12'>Exercises 12</a><br>***
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
+
+
+
+
 
 > ## ***<p id = 'Exercises 1' > Exercises 1 </p>***
 #### Film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
