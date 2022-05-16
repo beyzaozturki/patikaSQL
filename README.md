@@ -16,4 +16,4 @@
 
 
 
-> **<p id = 'Ödev 1' > Ödev 1 </p>**
+> **<p id = 'Exercises 1' > Exercises 1 </p>**
