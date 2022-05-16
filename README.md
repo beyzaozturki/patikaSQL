@@ -10,11 +10,12 @@
 ⚡ ***<a href='#Exercises 7'>Exercises 7</a><br>***
 ⚡ ***<a href='#Exercises 8'>Exercises 8</a><br>***
 ⚡ ***<a href='#Exercises 9'>Exercises 9</a><br>***
-🔹 ***<a href='#Exercises 10'>Exercises 10</a><br>***
-🔹 ***<a href='#Exercises 11'>Exercises 11</a><br>***
-🔹 ***<a href='#Exercises 12'>Exercises 12</a><br>***
+⚡ ***<a href='#Exercises 10'>Exercises 10</a><br>***
+⚡ ***<a href='#Exercises 11'>Exercises 11</a><br>***
+⚡ ***<a href='#Exercises 12'>Exercises 12</a><br>***
 
-
+&nbsp;
+&nbsp;
 
 > ## ***<p id = 'Exercises 1' > Exercises 1 </p>***
 #### Film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
