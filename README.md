@@ -1,4 +1,4 @@
-# SQL Exercises for Patika.dev
+# SQL Exercises 
 **This repository is prepared for Patika.dev SQL tutorials. Free and open source PostgreSQL was used as the database management system. You can find examples to practice SQL in this repository.**
 &nbsp;
 - ### SQL Basics
