@@ -1,5 +1,6 @@
 # SQL Exercises for Patika.dev
 **This repository is prepared for Patika.dev SQL tutorials. Free and open source PostgreSQL was used as the database management system. You can find examples to practice SQL in this repository.**
+&nbsp;
 
 ⚡ ***<a href='#Exercises 1'>Exercises 1</a><br>***
 ⚡ ***<a href='#Exercises 2'>Exercises 2</a><br>***
@@ -17,13 +18,14 @@
 <br/><br/>
 
 > ## ***<p id = 'Exercises 1' > Exercises 1 </p>***
-#### Film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
+#### Sort the data in the title and description columns in the film table.
 ~~~sql
 SELECT title,description FROM film;
 ~~~
-#### Film tablosunda bulunan tüm sütunlardaki verileri film uzunluğu (length) 60 dan büyük VE 75 ten küçük olma koşullarıyla sıralayınız.
+#### Sort the data in all the columns in the film table with the conditions that the movie length is greater than 60 AND less than 75.
 ~~~sql
-SELECT * FROM film WHERE length > 60 and length < 75;
+SELECT * FROM film 
+WHERE length > 60 AND length < 75;
 ~~~
 #### Film tablosunda bulunan tüm sütunlardaki verileri rental_rate 0.99 VE replacement_cost 12.99 VEYA 28.99 olma koşullarıyla sıralayınız.
 ~~~sql
