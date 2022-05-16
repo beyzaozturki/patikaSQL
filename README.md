@@ -16,7 +16,7 @@
 
 
 
-> ***<p id = 'Exercises 1' > Exercises 1 </p>***
+> ## ***<p id = 'Exercises 1' > Exercises 1 </p>***
 #### Film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 ~~~sql
 SELECT title,description FROM film;
