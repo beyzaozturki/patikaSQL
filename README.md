@@ -12,11 +12,11 @@
    ⚡ ***<a href='#Exercises 7'>Exercises 7</a><br>***
 - ### Working With Tables
    ⚡ ***<a href='#Exercises 8'>Exercises 8</a><br>***
-- ###JOINs
+- ### JOINs
    ⚡ ***<a href='#Exercises 9'>Exercises 9</a><br>***
    ⚡ ***<a href='#Exercises 10'>Exercises 10</a><br>***
    ⚡ ***<a href='#Exercises 11'>Exercises 11</a><br>***
-- ###Subqueries
+- ### Subqueries
    ⚡ ***<a href='#Exercises 12'>Exercises 12</a><br>***
 
 <br/><br/>
